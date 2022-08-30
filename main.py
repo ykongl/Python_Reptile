@@ -11,6 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    a = 0.06968307502892741
+    b = 0.0000068012799096
+    print(a + b)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
