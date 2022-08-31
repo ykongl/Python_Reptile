@@ -30,6 +30,7 @@ print(last_day_corona_virus)
 
 
 # 把python转换为Json字符串
+
 files = json.dumps(last_day_corona_virus,ensure_ascii=False)
 
 with open('tt.json','w',encoding='utf8') as fp:
